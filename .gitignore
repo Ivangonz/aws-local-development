@@ -1,0 +1,12 @@
+node_modules
+cdk.out
+dist
+src/generated
+
+*.tsbuildinfo
+npm-debug.log
+
+.idea
+/scratch.ts
+/scratch.js
+coverage
